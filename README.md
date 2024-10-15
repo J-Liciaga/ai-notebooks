@@ -8,9 +8,9 @@ A collection of Jupyter Notebooks for AI & ML algorithms implemented in Python3 
 - Decision Tree
 - Transformers
 - Differential Transformer
+- Linear Regression
 
 ## Todo: 
-- Linear Regression
 - Logistic Regression
 - Random Forests
 - Support Vector Machine (SVM)
