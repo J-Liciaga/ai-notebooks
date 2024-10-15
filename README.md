@@ -7,9 +7,9 @@ A collection of Jupyter Notebooks for AI & ML algorithms implemented in Python3 
 - Liquid Neural Network (LNN)
 - Decision Tree
 - Transformers
-
-# Todo: 
 - Differential Transformer
+
+## Todo: 
 - Linear Regression
 - Logistic Regression
 - Random Forests
@@ -25,7 +25,3 @@ A collection of Jupyter Notebooks for AI & ML algorithms implemented in Python3 
 - Reinforcement Learning (Q-Learning)
 - Generative Adversarial Networks (GANs)
 - Gradient Boosting (XGBoost, LightGBM)
-- BERT
-- GPT-2
-- GPT-3
-- T5
