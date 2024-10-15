@@ -29,7 +29,3 @@ A collection of Jupyter Notebooks for AI & ML algorithms implemented in Python3 
 - GPT-2
 - GPT-3
 - T5
-- BERT
-- GPT-2
-- GPT-3
-- T5
