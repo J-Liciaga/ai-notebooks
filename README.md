@@ -10,10 +10,10 @@ A collection of Jupyter Notebooks for AI & ML algorithms implemented in Python3 
 - Differential Transformer
 - Linear Regression
 - Logistic Regression
+- Random Forests
 
 ## Todo: 
 
-- Random Forests
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
 - K-Means
